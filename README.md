@@ -27,36 +27,27 @@ GitHub Pages: Hosting the app for easy sharing.
 How It Works
 Enter the names of two individuals on the home screen.
 Click "Calculate" to see the compatibility percentage.
-Special names like karthik, saran, or jesicka receive extra love with high match scores.
 Enjoy the dynamic animations and elegant user interface.
 Installation
 To run this project locally, follow these steps:
 
 Clone the Repository:
 
-bash
-Copy code
 git clone https://github.com/karthiksaran018/Love-Calc.git
 cd Love-Calc
 Install Dependencies:
 
-bash
-Copy code
 npm install
 Run the Development Server:
 
-bash
-Copy code
+
 npm run dev
 Open your browser and navigate to:
 
-arduino
-Copy code
+
 http://localhost:5173/
 To build for production:
 
-bash
-Copy code
 npm run build
 Deployment
 This app is deployed on GitHub Pages. Access it live here.
