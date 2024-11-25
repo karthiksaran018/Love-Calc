@@ -1,4 +1,4 @@
-**Love Calculator 💕**
+#Love Calculator 💕
 
 A fun and interactive Love Calculator app built using React and Vite, allowing users to calculate the compatibility between two names with a touch of elegance and style.
 
@@ -29,7 +29,9 @@ Vite: Modern build tool for blazing-fast development and optimized production.
 React Router DOM: For routing and navigation.
 CSS: Responsive and beautiful styling.
 GitHub Pages: Hosting the app for easy sharing.
+
 How It Works
+
 Enter the names of two individuals on the home screen.
 Click "Calculate" to see the compatibility percentage.
 Enjoy the dynamic animations and elegant user interface.
@@ -62,24 +64,32 @@ This app is deployed on GitHub Pages. Access it live here.
 https://karthiksaran018.github.io/Love-Calc/
 
 **Contributing**
+
 Contributions are welcome! If you’d like to improve this project, follow these steps:
 
 Fork the repository.
+
 **Create a new branch:**
 
 git checkout -b feature/your-feature-name
+
 **Make your changes and commit:**
 
 git commit -m "Add your feature description"
+
 **Push to the branch:**
 
 git push origin feature/your-feature-name
+
 Open a pull request.
 
 **License**
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgments
+
+**Acknowledgments**
+
 Special thanks to Vite and React for powering this app.
 Icon and GIF resources are sourced from royalty-free websites.
 Future Enhancements
