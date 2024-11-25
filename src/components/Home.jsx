@@ -1,5 +1,8 @@
 import { useNavigate } from 'react-router-dom';
 import { useState } from 'react';
+import loveIcon from '../assets/love.png';
+import bossIcon from '../assets/boss.png';
+import womanIcon from '../assets/woman.png';
 
 export default function Home() {
   const navigate = useNavigate();
@@ -13,7 +16,7 @@ export default function Home() {
 
   return (
     <>
-      <img src="/src/assets/love.png" alt="love icon" className="logo" />
+      <img src={loveIcon} alt="love icon" className="logo" />
       <h2>Love Calculator</h2>
 
       <div>
@@ -24,7 +27,7 @@ export default function Home() {
             value={boyName}
             onChange={(e) => setBoyName(e.target.value)}
           />
-          <img src="/src/assets/boss.png" alt="boss icon" />
+          <img src={bossIcon} alt="boss icon" />
         </div>
 
         <div className="input_container">
@@ -34,7 +37,7 @@ export default function Home() {
             value={girlName}
             onChange={(e) => setGirlName(e.target.value)}
           />
-          <img src="/src/assets/woman.png" alt="woman icon" />
+          <img src={womanIcon} alt="woman icon" />
         </div>
       </div>
 
