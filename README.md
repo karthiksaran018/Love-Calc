@@ -1,13 +1,18 @@
-**Love Calculator 💕
-**
+**Love Calculator 💕**
+
 A fun and interactive Love Calculator app built using React and Vite, allowing users to calculate the compatibility between two names with a touch of elegance and style.
 
-Features
-**✨ Compatibility Calculator: **Enter two names and get a fun compatibility percentage.
+**Features**
+
+**✨ Compatibility Calculator:** Enter two names and get a fun compatibility percentage.
+
 **✨ Dynamic Match Logic:** Predefined matches for specific names with guaranteed high percentages.
+
 **✨ Smooth Navigation:** Built with React Router for seamless transitions.
+
 **✨ Responsive Design:** Beautiful and mobile-friendly UI for any device.
-**✨ Optimized for Performance: **Powered by Vite for fast builds and blazing speed.
+
+**✨ Optimized for Performance:** Powered by Vite for fast builds and blazing speed.
 
 ## Love Calculator Screenshots
 
