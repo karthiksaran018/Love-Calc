@@ -1,4 +1,4 @@
-#Love Calculator 💕
+# Love Calculator 💕
 
 A fun and interactive Love Calculator app built using React and Vite, allowing users to calculate the compatibility between two names with a touch of elegance and style.
 
