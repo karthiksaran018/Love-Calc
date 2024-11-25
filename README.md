@@ -9,10 +9,14 @@ Features
 ✨ Responsive Design: Beautiful and mobile-friendly UI for any device.
 ✨ Optimized for Performance: Powered by Vite for fast builds and blazing speed.
 
-Screenshots
-Home Screen
+## Love Calculator Screenshots
 
-Result Screen
+### Home Page
+![Home Page](src/assets/home-page.png)
+
+### Result Page
+![Result Page](src/assets/result-page.png)
+
 
 Technologies Used
 React: Frontend framework for building dynamic UI.
